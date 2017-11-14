@@ -2,5 +2,5 @@
 
 label: Ability
 id : cs
-aspects: Malida, Algebra, Analysis, Calculus, Differential Equations, Clash of Clans, Github
-percentage: 100, 65, 75, 85, 90, 100, 75, 60
+aspects: Malida, Algebra, Calculus, Differential Equations, Clash of Clans, Github, Analysis
+percentage: 100, 65, 85, 90, 75, 60, 75
