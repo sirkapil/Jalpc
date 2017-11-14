@@ -7,12 +7,12 @@
     detail: Mathematics
     i18n: company_a_desc
   date:
-    detail: Apr. 2017-19
+    detail: 2017–19
     i18n: company_a_date
   job:
     detail: University of Delhi
     i18n: company_a_job
-  icon: fa-plus-square
+  icon: fa-graduation-cap
 
 - name:
     detail: Bachelor of Science
@@ -21,9 +21,11 @@
     detail: Honours in Mathematics
     i18n: company_b_desc
   date:
-    detail: Apr. 2013-16
+    detail: 2013–16
     i18n: company_b_date
   job:
     detail: University of Delhi
     i18n: company_b_job
-  icon: fa-plus-squre
+  icon: fa-graduation-cap
+
+
